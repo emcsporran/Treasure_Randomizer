@@ -18,10 +18,12 @@ addpath(libpath);
 
 %% Variables
 
+names = ['CP','SP','EP','GP','PP'];
 [CR4,CR10,CR16,CR17] = individual_treasure_file('individual_treasure_table');
 d100 = dice(100);
 
 coin = calculate_coin(CR4,d100);
+disp(names);
 disp(coin);
 
 %% Functions
