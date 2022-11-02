@@ -1,4 +1,4 @@
-# DnD_Scripts
+# Treasure_Randomizer
 
 Trying to make a script that randomizes the treasure tables based on the Wizards of the Coast's, Dungeons and Dragons, Dungeon Master's Guide Sample Treasure Tables.
 
